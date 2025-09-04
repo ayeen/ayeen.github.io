@@ -21,7 +21,7 @@ banner:
     </p>
   </div>
   <div style="flex:1; min-width:220px;">
-    <img src="/media/pro-yun.png" alt="Professor Geun Young Yun" style="width:100%;max-width:250px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="pro-yun.png" alt="Professor Geun Young Yun" style="width:100%;max-width:250px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" />
   </div>
 </div>
 <h2 style="color:#1565c0; font-weight:400; margin-top:2rem;">EDUCATION</h2>
