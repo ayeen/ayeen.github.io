@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+# title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+# first_name: Nelson
+# last_name: Bighetti
 
 # Is this the primary user of the site?
-superuser: true
+# superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
+# organizations:
+  # - name: Stanford University
+    # url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,7 +71,7 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
+<!-- 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
