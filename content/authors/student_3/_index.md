@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Indira Adilkhanova
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Indira
+last_name: Adilkhanova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:indira.adilkhan@khu.ac.kr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen

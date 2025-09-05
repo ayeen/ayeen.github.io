@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Sarath Raj Kodakkattu
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Sarath Raj
+last_name: Kodakkattu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Kyung Hee University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:sarath.rajk@khu.ac.kr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen

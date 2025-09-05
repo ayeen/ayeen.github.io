@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ali Muzahir
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ali
+last_name: Muzahir
 
 # Username (this should match the folder name)
 # authors:
@@ -13,32 +13,28 @@ last_name: Wu
 # superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+# role: Combined master's and doctoral student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Kyung Hee University
     # url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-role: Professor of Artificial Intelligence
+bio: My research interests include distributed robotics, mobile computing and programmable matter
+role: Combined master's and doctoral student
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Architecture Engineering
+      institution: Kyung Hee University, South Korea
+      year: 2025-
+    - course: BS in Computer Science
+      institution: Fast Univerity, Pakistan
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:alimuzahir@khu.ac.kr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen

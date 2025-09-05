@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Kanghee Lee
+title: Lewis ‍Nsengeyukuri
 
 # Full Name (for SEO)
-first_name: Kanghee
-last_name: Lee
+first_name: Lewis
+last_name: ‍Nsengeyukuri
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D student
+role: Phd. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Kyung Hee University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: Kyung Hee University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:lewis@khu.ac.kr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen

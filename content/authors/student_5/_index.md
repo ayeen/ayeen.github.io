@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Kanghee Lee
+title: Jung Daeun
 
 # Full Name (for SEO)
-first_name: Kanghee
-last_name: Lee
+first_name: Jung
+last_name: Daeun
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D student
+role: Master's student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Kyung Hee University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: Kyung Hee University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
