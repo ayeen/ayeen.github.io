@@ -7,26 +7,29 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Human Behaviour and Energy Laboratory
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        **Office:**
+        
+        Tel: +82-31-201-3859
+        
+        Email: gyyun@khu.ac.kr
+
+        **Lab:**
+        
+        Tel: +82-31-201-3378
+      email: gyyun@khu.ac.kr
+      phone: +82-31-201-3859
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
+        street: 1732 Deogyeong-daero
+        city: Giheung-gu
+        region: Yongin-si
+        postcode: '17104'
+        country: South Korea
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '37.2483'
+        longitude: '127.0778'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -38,11 +41,10 @@ sections:
     
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
+          id: xvgbvdqq  # Replace this with your own Formspree form ID
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
       columns: '1'
