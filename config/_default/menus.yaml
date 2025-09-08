@@ -13,11 +13,11 @@ main:
   - name: Members
     url: /members
     weight: 30
-  - name: Research
-    url: /research
-    weight: 40
   - name: Publications
     url: /publication
+    weight: 40
+  - name: News
+    url: /news
     weight: 50
   - name: Contact
     url: /contact
