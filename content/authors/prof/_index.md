@@ -49,7 +49,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gyyun@khu.ac.kr'
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar

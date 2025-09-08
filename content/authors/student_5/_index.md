@@ -28,10 +28,10 @@ interests:
 education:
   courses:
     - course: MEng in Architectural Engineering
-      institution: Massachusetts Institute of Technology
+      institution: Kyung Hee University
       year: 2025 - Till Date
     - course: BSc in Architectural Engineering
-      institution: Massachusetts Institute of Technology
+      institution: Kyung Hee University
       year: 2020 - 2024
 
 # Social/Academic Networking
@@ -41,13 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:'
+  - icon: linkedin
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen

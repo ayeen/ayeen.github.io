@@ -18,11 +18,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include urban planning, sustainable cities, urban climate and GIS.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Geographic Information System
+  - Urban heat island and energy saving
   - Information Retrieval
 
 education:
@@ -30,12 +30,12 @@ education:
     - course: PhD in Architechural Engineering
       institution: Kyung Hee University
       year: 2025 - Till Date
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Geographic Information Science for enviroment and sustainable development
+      institution: University Of Rwanda
+      year: 2024
+    - course: BSc in Urban & Regional Planning
+      institution: Univeristy Of Rwanda
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,15 +45,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:lewis@khu.ac.kr'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/lewis-nsengeyukuri-7a388a174
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: #
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lewiskhu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
