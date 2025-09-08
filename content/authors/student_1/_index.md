@@ -14,7 +14,7 @@ role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Kyung Hee University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Architectural Engineering
+      institution: Kyung Hee University
+      year: 2024 - Till Date
+    - course: MEng in Architectural Engineering
+      institution: Kyung Hee Univeristy
+      year: 2022 - 2024
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008

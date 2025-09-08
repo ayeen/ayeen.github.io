@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Kyung Hee University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Architectural Engineering
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+      year: 2025 - Till Date
+    - course: BSc in Architectural Engineering
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2020 - 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

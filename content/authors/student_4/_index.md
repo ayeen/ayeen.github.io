@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Architechural Engineering
       institution: Kyung Hee University
-      year: 2012
+      year: 2025 - Till Date
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009

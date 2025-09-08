@@ -3,8 +3,8 @@
 title: Ayeen Muhammad Khan
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Ayeen Muhammad
+last_name: Khan
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,10 @@ role: Combined master’s and doctoral student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Kyung Hee University
+    url: 'https://www.khu.ac.kr/eng/user/main/view.do'
+  - name: Human Behaviour and Energy Laboratory (HuBEL)
+    url: 'https://www.gyyun.org/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Machine learning in the built environment and Building energy, energy saving and building performance simulation.
@@ -23,19 +25,16 @@ bio: Machine learning in the built environment and Building energy, energy savin
 interests:
   - Artificial Intelligence
   - Energy Conservation
-  - Information Retrieval
+  - Machine learning in the built environment
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in  Architectural Engineering
+      institution: Kyung Hee University, South Korea
+      year: 2025 - Till Date
+    - course: BS in Computer Science
+      institution: Iqra University, Islamabad Pakistan
+      year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,7 +46,7 @@ social:
     link: 'mailto:ayeen@khu.ac.kr'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ayeenmk
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
